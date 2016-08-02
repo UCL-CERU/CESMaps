@@ -1,0 +1,14 @@
+Name = SMP22part, Liverpool Bay, UK (iCOASST)
+Region = Liverpool Bay, NW England, UK
+CreatedUsing = CESMapper
+Created = 30/08/2016
+About = This map shows the connectivity of the coupled estuary, open coast and inner shelf sediment systems of Liverpool. The coverage broadly corresponds to part of Shoreline Management Plan (SMP) 22. This map was produced as part of the NERC iCOASST project as part of a participatory modelling process of stakeholder engagement in this case study region.
+Project = iCOASST (Integrating Coastal Sediment Systems)
+ProjectURL = http:www.channelcoast.org/icoasst/CESM
+Author = Dr Helene Burningham, UCL
+AuthorEmail = h.burningham@ucl.ac.uk
+Modified = 01/08/2016
+Modifier = Dr Helene Burningham, UCL
+ModifierEmail = h.burningham@ucl.ac.uk
+ChangeLog = 01/08/2016
+ - edits to stylesheet
