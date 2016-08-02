@@ -1,6 +1,8 @@
 # CESMaps
 This repository contains Coastal and Estuarine System Maps for specific regions.
 
+![Coastal and Estuarine System Map - Liverpool Bay](https://github.com/UCL-CERU/CESMaps/sample.jpg?raw=true "CESM - Liverpool Bay, UK")
+
 Coastal and Estuarine System Maps can be produced using the CESMapper QGIS software, which can be freely downloaded from:
 
 https://github.com/UCL-CERU/CESMapper
